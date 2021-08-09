@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "HealthCareServiceID": [
+      1,
+      2
+    ],
+    "OrgID": [
+      2,
+      3
+    ],
+    "SpecialtyID": [
+      1807,
+      2709
+    ],
+    "availabilityExceptions": "",
+    "availableTime": [
+      {
+        "allDay": false,
+        "daysOfWeek": "Mon, Tue, Thu, Sat",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "code": [],
+    "locationID": [
+      1
+    ],
+    "telecom": [
+      {
+        "value": "",
+        "use": "",
+        "id": 123
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "HealthCareServiceID": [
+      3,
+      4
+    ],
+    "OrgID": [
+      3,
+      4
+    ],
+    "SpecialtyID": [
+      2709,
+      2710
+    ],
+    "availabilityExceptions": "",
+    "availableTime": [
+      {
+        "allDay": false,
+        "daysOfWeek": "Mon, Tue, Thu, Sat",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "code": [],
+    "locationID": [
+      1
+    ],
+    "telecom": [
+      {
+        "value": "",
+        "use": "",
+        "id": 123
+      }
+    ]
+  }
+]

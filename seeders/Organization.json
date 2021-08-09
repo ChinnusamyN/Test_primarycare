@@ -1,0 +1,142 @@
+[
+	{
+		"OrgType": [
+			"Hospital"
+		],
+		"ParentOrgID": [
+			1
+		],
+		"active": true,
+		"address": [
+			{
+				"city": "Chennai",
+				"country": "India",
+				"district": "Chennai",
+				"id": 2,
+				"latitude": "string",
+				"line": "string",
+				"longitude": "string",
+				"postalCode": "600032",
+				"state": "Tamilnadu",
+				"text": "string",
+				"use": "string"
+			}
+		],
+		"alias": "Apollo Vadapalani",
+		"id": 2,
+		"name": "Apollo Hospital",
+		"telecom": [
+			{
+				"id": 2,
+				"rank": "1",
+				"system": "Business",
+				"use": "Office",
+				"value": "13123541"
+			}
+		]
+	},
+	{
+		"OrgType": [
+			"Hospital"
+		],
+		"ParentOrgID": [
+			1
+		],
+		"active": true,
+		"address": [
+			{
+				"city": "Chennai",
+				"country": "string",
+				"district": "Chennai",
+				"id": 3,
+				"latitude": "string",
+				"line": "string",
+				"longitude": "string",
+				"postalCode": "600032",
+				"state": "Tamilnadu",
+				"text": "string",
+				"use": "string"
+			}
+		],
+		"alias": "Apollo Guindy",
+		"id": 3,
+		"name": "Apollo Hospital",
+		"telecom": [
+			{
+				"id": 3,
+				"rank": "1",
+				"system": "Business",
+				"use": "Office",
+				"value": "13123541"
+			}
+		]
+	},
+	{
+		"OrgType": [
+			"Clinic"
+		],
+		"ParentOrgID": [
+			2
+		],
+		"active": true,
+		"address": [
+			{
+				"city": "Chennai",
+				"country": "string",
+				"district": "Chennai",
+				"id": 4,
+				"latitude": "string",
+				"line": "string",
+				"longitude": "string",
+				"postalCode": "600032",
+				"state": "Tamilnadu",
+				"text": "string",
+				"use": "string"
+			}
+		],
+		"alias": "Apollo Velachery",
+		"id": 4,
+		"name": "Apollo Clinic Hospital",
+		"telecom": [
+			{
+				"id": 4,
+				"rank": "1",
+				"system": "Business",
+				"use": "Office",
+				"value": "13123541"
+			}
+		]
+	},
+	{
+		"OrgType": [],
+		"ParentOrgID": [],
+		"active": true,
+		"address": [
+			{
+				"city": "string",
+				"country": "string",
+				"district": "string",
+				"id": 1,
+				"latitude": "string",
+				"line": "string",
+				"longitude": "string",
+				"postalCode": "string",
+				"state": "string",
+				"text": "string",
+				"use": "string"
+			}
+		],
+		"alias": "Apollo Main",
+		"id": 1,
+		"name": "Apollo Main Hospital",
+		"telecom": [
+			{
+				"id": 1,
+				"rank": "1",
+				"system": "Business",
+				"use": "Office",
+				"value": "13123541"
+			}
+		]
+	}
+]

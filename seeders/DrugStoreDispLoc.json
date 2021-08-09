@@ -1,0 +1,1 @@
+[{"_key":"10000","_id":"DrugStoreDispLoc/10000","_rev":"_csDFO5u---","id":1,"OrgId":"Apollo Cardiac Hospital","DispLocCode":"OP_PHARMA","StoreCode":"MAIN-PH","ReturnAllowed":true,"MaxDaysforReturn":3,"DrugCriteria":"Not Narcotics","EncounterCriteria":"Not Inpatient","PatientCriteria":"Not Female","OrderCriteria":"Not IV","ExtRxAllowed":true,"OTCAllowed":true,"status":"Active"}]

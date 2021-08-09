@@ -1,0 +1,103 @@
+[
+  {
+    "active": true,
+    "healthcareservicecode": "A0000001",
+    "name": "Acupuncture",
+    "coverageArea": [],
+    "program": [],
+    "characterstic": [],
+    "refferalMethod": [],
+    "appointmentRequired": true,
+    "availableTime": [
+      {
+        "allDay": true,
+        "daysOfWeek": "Mon, Wed, Fri",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "Type": "",
+    "id": 0,
+    "SpecialtyID": [
+      1807,
+      2709,
+      2710
+    ],
+    "OrgID": 2
+  },
+  {
+    "active": true,
+    "healthcareservicecode": "A0000002",
+    "name": "Addiction medicine (specialist)",
+    "coverageArea": [],
+    "program": [],
+    "characterstic": [],
+    "refferalMethod": [],
+    "appointmentRequired": true,
+    "availableTime": [
+      {
+        "allDay": true,
+        "daysOfWeek": "Mon, Wed, Fri",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "Type": "",
+    "id": 0,
+    "SpecialtyID": [
+      2709
+    ],
+    "OrgID": 3
+  },
+  {
+    "active": true,
+    "healthcareservicecode": "A0000003",
+    "name": "Adult mental health",
+    "coverageArea": [],
+    "program": [],
+    "characterstic": [],
+    "refferalMethod": [],
+    "appointmentRequired": true,
+    "availableTime": [
+      {
+        "allDay": true,
+        "daysOfWeek": "Mon, Wed, Fri",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "Type": "",
+    "id": 0,
+    "SpecialtyID": [
+      2709,
+      2710
+    ],
+    "OrgID": 4
+  },
+  {
+    "active": true,
+    "healthcareservicecode": "A0000006",
+    "name": "All Services",
+    "coverageArea": [],
+    "program": [],
+    "characterstic": [],
+    "refferalMethod": [],
+    "appointmentRequired": true,
+    "availableTime": [
+      {
+        "allDay": true,
+        "daysOfWeek": "Mon, Wed, Fri",
+        "availableStartTime": "09:00:00",
+        "availableEndTime": "18:00:00"
+      }
+    ],
+    "Type": "",
+    "id": 0,
+    "SpecialtyID": [
+      1807,
+      2709,
+      2710
+    ],
+    "OrgID": 3
+  }
+]
